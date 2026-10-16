@@ -2,7 +2,7 @@
 
 Please **do not** open a public issue for security vulnerabilities.
 
-Report them privately via GitHub's [private vulnerability reporting](../../security/advisories/new)
+Report them privately via GitHub's [private vulnerability reporting](https://github.com/ayushneo/fiber_template/security/advisories/new)
 (Security tab → "Report a vulnerability"). You'll get a response within a few days.
 
 This is a starter template: once you've generated your own repository from it, you own its
